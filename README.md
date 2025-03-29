@@ -123,4 +123,4 @@ Distributed under the MIT License. See LICENSE for more information.
 
 📧 Contact
 Project Lead: Lavanya S
-Project Link: [https://github.com/yourusername/investor-business-bridge](https://github.com/lavanya321-hub/Bridge-Investor-Business/
+Project Link: https://github.com/lavanya321-hub/Bridge-Investor-Business/
