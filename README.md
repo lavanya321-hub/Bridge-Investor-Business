@@ -94,7 +94,7 @@ investor-business-bridge/
 └── README.md             # This file
 
 🌐 Live Demo
-Check out our live demo: https://investor-bridge.web.app
+Check out our live demo: bridge-investor-business.vercel.app
 
 📈 Future Roadmap
 Mobile application (React Native)
@@ -123,4 +123,4 @@ Distributed under the MIT License. See LICENSE for more information.
 
 📧 Contact
 Project Lead: Lavanya S
-Project Link: https://github.com/yourusername/investor-business-bridge
+Project Link: [https://github.com/yourusername/investor-business-bridge](https://github.com/lavanya321-hub/Bridge-Investor-Business/
